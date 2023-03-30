@@ -118,4 +118,4 @@ https://github.com/mateomd-dev/orb-slam2
 https://gitlab.com/srrg-software/srrg_proslam
 
 ##최종 발표  
-https://www.notion.so/Team3-SLAM-95ee72fda0c04ffa9ec51e468793eac9
+https://www.notion.so/Team3-SLAM-95ee72fda0c04ffa9ec51e468793eac9 
